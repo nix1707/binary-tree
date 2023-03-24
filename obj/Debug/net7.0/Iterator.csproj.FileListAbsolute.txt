@@ -1,0 +1,17 @@
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\bin\Debug\net7.0\Iterator.exe
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\bin\Debug\net7.0\Iterator.deps.json
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\bin\Debug\net7.0\Iterator.runtimeconfig.json
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\bin\Debug\net7.0\Iterator.dll
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\bin\Debug\net7.0\Iterator.pdb
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.csproj.AssemblyReference.cache
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.AssemblyInfoInputs.cache
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.AssemblyInfo.cs
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.csproj.CoreCompileInputs.cache
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.dll
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\refint\Iterator.dll
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.pdb
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.genruntimeconfig.cache
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\ref\Iterator.dll
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\bin\Debug\net7.0\Bogus.dll
+D:\C# Junior tutorial\Patterns\Iterator\Iterator\obj\Debug\net7.0\Iterator.csproj.CopyComplete
